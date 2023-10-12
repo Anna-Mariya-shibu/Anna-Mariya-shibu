@@ -1,4 +1,10 @@
-### Hi there 👋
+### About me 👋
+Name:Anna Mariya Shibu
+
+Email ID:
+annamariyashibu93@gmail.com
+
+I,Anna Mariya Shibu 19year old female currently studing at VJEC.
 
 <!--
 **Anna-Mariya-shibu/Anna-Mariya-shibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
